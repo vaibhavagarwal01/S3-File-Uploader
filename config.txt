@@ -1,0 +1,10 @@
+[My-Section]
+aws_access_key=
+aws_secret_key=
+bucket_name = 
+s3_bucket_region = 
+flask_secret_key = 
+db_host=
+db_user=
+db_password=
+db_database=
